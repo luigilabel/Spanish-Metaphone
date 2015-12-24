@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- 
 
 '''
-	The Spanish Metaphone Algorithm (Algoritmo del Metáfono para el Español)
+	The Spanish Double Metaphone Algorithm (Algoritmo del Metáfono para el Español)
 
 	This script implements the Metaphone algorithm (c) 1990 by Lawrence Philips.
 	It was inspired by the English double metaphone algorithm implementation by
